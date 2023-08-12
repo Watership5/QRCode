@@ -19,6 +19,7 @@
 <style>
   /* importing the font family  */
   @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap');
+  /* setting the styles for the body */
   body{
     display: flex;
     align-items: center;
