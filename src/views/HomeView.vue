@@ -27,6 +27,8 @@
     justify-content: center;
     background-color: hsl(212, 45%, 89%);
   }
+
+  /* setting all the other styles */
   main{
     background-color: white;
     width: fit-content;
