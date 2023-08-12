@@ -1,4 +1,5 @@
 <script setup lang="ts">
+  //importing dependencies
   import qrcode from "../../public/image-qr-code.png"
 </script>
 
