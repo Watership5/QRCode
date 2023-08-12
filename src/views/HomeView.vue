@@ -5,6 +5,7 @@
 
 <template>
   <main>
+    <!-- the main html -->
     <img :src="qrcode" alt="qrcode" width="275"/>
     <p>
       Improve your front-end skills by building projects
